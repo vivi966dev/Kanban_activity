@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">KanbanTask</string>
+
+    <!-- Tabs -->
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Concluído</string>
+    <string name="tabs_desc">Tabs</string>
+
+    <!-- Tela Login -->
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_digite_email">Digite seu e-mail</string>
+    <string name="hint_digite_senha">Digite sua senha</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_criar_conta">Criar Conta</string>
+    <string name="btn_recuperar_conta">Recuperar Conta</string>
+
+    <!-- Tela Cadastro -->
+    <string name="title_criar_conta">Criar Conta</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="cadastro_sucesso">Cadastro realizado com sucesso!</string>
+
+    <!-- Tela Recuperar Conta -->
+    <string name="title_recuperar_conta">Recuperar Conta</string>
+    <string name="msg_recuperar_conta">Informe seu e-mail de cadastro para receber \n um link para alteração de senha.</string>
+    <string name="email_recuperacao_enviado">E-mail de recuperação enviado com sucesso!</string>
+
+    <!-- Tela Nova Tarefa -->
+    <string name="title_nova_tarefa">Nova Tarefa</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="label_status">Status</string>
+    <string name="hint_descricao_tarefa">Descreva a tarefa</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="tarefa_salva_sucesso">Tarefa salva com sucesso!</string>
+    <string name="editar_tarefa_info">Funcionalidade de edição disponível após integração com banco de dados.</string>
+
+    <!-- Itens da lista -->
+    <string name="btn_remover">Remover</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_detalhes">Detalhes</string>
+    <string name="btn_back_desc">Mover para etapa anterior</string>
+    <string name="btn_forward_desc">Mover para próxima etapa</string>
+    <string name="lista_vazia">Nenhuma tarefa encontrada</string>
+    <string name="tarefa_atualizada">Tarefa atualizada!</string>
+    <string name="confirmar_exclusao">Deseja realmente remover esta tarefa?</string>
+    <string name="add_task_desc">Adicionar tarefa</string>
+    <string name="logout_desc">Sair</string>
+
+    <!-- Validações -->
+    <string name="email_empty_login_fragment">Preencha o campo e-mail para continuar.</string>
+    <string name="password_empty_login_fragment">Preencha o campo senha para continuar.</string>
+    <string name="email_empty_register_fragment">Preencha o campo e-mail para realizar o cadastro.</string>
+    <string name="password_empty_register_fragment">Preencha o campo senha para realizar o cadastro.</string>
+    <string name="email_empty_recover_fragment">Preencha o campo e-mail para recuperar sua conta.</string>
+    <string name="descricao_empty_form_fragment">Preencha a descrição da tarefa antes de salvar.</string>
+
+    <!-- BottomSheet -->
+    <string name="text_title_warning">Atenção</string>
+    <string name="title_button_ok">OK</string>
+    <string name="title_button_confirm">Confirmar</string>
+</resources>

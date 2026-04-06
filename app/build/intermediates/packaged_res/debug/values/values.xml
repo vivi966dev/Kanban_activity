@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color_arrow_back">#FB8C00</color>
+    <color name="color_arrow_forward">#43A047</color>
+    <color name="color_default">#C8A2C8</color>
+    <color name="color_delete">#E53935</color>
+    <color name="color_details">#43A047</color>
+    <color name="color_primary_variant">#341539</color>
+    <color name="color_text">#212121</color>
+    <color name="green">#43A047</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_task_desc">Adicionar tarefa</string>
+    <string name="app_name">KanbanTask</string>
+    <string name="btn_back_desc">Mover para etapa anterior</string>
+    <string name="btn_criar_conta">Criar Conta</string>
+    <string name="btn_detalhes">Detalhes</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_forward_desc">Mover para próxima etapa</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_recuperar_conta">Recuperar Conta</string>
+    <string name="btn_remover">Remover</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="cadastro_sucesso">Cadastro realizado com sucesso!</string>
+    <string name="confirmar_exclusao">Deseja realmente remover esta tarefa?</string>
+    <string name="descricao_empty_form_fragment">Preencha a descrição da tarefa antes de salvar.</string>
+    <string name="editar_tarefa_info">Funcionalidade de edição disponível após integração com banco de dados.</string>
+    <string name="email_empty_login_fragment">Preencha o campo e-mail para continuar.</string>
+    <string name="email_empty_recover_fragment">Preencha o campo e-mail para recuperar sua conta.</string>
+    <string name="email_empty_register_fragment">Preencha o campo e-mail para realizar o cadastro.</string>
+    <string name="email_recuperacao_enviado">E-mail de recuperação enviado com sucesso!</string>
+    <string name="hint_descricao_tarefa">Descreva a tarefa</string>
+    <string name="hint_digite_email">Digite seu e-mail</string>
+    <string name="hint_digite_senha">Digite sua senha</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="label_descricao">Descrição</string>
+    <string name="label_status">Status</string>
+    <string name="lista_vazia">Nenhuma tarefa encontrada</string>
+    <string name="logout_desc">Sair</string>
+    <string name="msg_recuperar_conta">Informe seu e-mail de cadastro para receber \n um link para alteração de senha.</string>
+    <string name="password_empty_login_fragment">Preencha o campo senha para continuar.</string>
+    <string name="password_empty_register_fragment">Preencha o campo senha para realizar o cadastro.</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Concluído</string>
+    <string name="status_task_todo">A Fazer</string>
+    <string name="tabs_desc">Tabs</string>
+    <string name="tarefa_atualizada">Tarefa atualizada!</string>
+    <string name="tarefa_salva_sucesso">Tarefa salva com sucesso!</string>
+    <string name="text_title_warning">Atenção</string>
+    <string name="title_button_confirm">Confirmar</string>
+    <string name="title_button_ok">OK</string>
+    <string name="title_criar_conta">Criar Conta</string>
+    <string name="title_nova_tarefa">Nova Tarefa</string>
+    <string name="title_recuperar_conta">Recuperar Conta</string>
+    <style name="BottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/bottomSheetDialogWrapper</item>
+    </style>
+    <style name="ButtonStyle">
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="android:textColor">@color/color_default</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="backgroundTint">@null</item>
+    </style>
+    <style name="CustomTabLayout" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:background">@drawable/bg_edit_text</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/color_text</item>
+        <item name="android:textColorHint">#888888</item>
+    </style>
+    <style name="MyRadioButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/green</item>
+    </style>
+    <style name="Theme.Task" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_default</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/color_default</item>
+        <item name="bottomSheetDialogTheme">@style/BottomSheetDialog</item>
+    </style>
+    <style name="bottomSheetDialogWrapper" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>
