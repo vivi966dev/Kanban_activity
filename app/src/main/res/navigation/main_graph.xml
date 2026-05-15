@@ -13,6 +13,9 @@
             app:destination="@id/autentication"
             app:popUpTo="@id/splashFragment"
             app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_splashFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
     </fragment>
 
     <navigation
@@ -45,6 +48,9 @@
             android:id="@+id/recoverAccountFragment"
             android:name="com.aluno.task.ui.auth.RecoverAccountFragment"
             android:label="RecoverAccountFragment" />
+        <action
+            android:id="@+id/action_global_homeFragment"
+            app:destination="@id/homeFragment" />
 
     </navigation>
 
@@ -55,11 +61,29 @@
         <action
             android:id="@+id/action_homeFragment_to_formTaskFragment"
             app:destination="@id/formTaskFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_autentication"
+            app:destination="@id/autentication" />
     </fragment>
 
     <fragment
         android:id="@+id/formTaskFragment"
         android:name="com.aluno.task.ui.FormTaskFragment"
         android:label="FormTaskFragment" />
+    <action
+        android:id="@id/action_global_homeFragment"
+        app:destination="@id/homeFragment"
+        app:popUpTo="@id/loginFragment"
+        app:popUpToInclusive="true"/>
+    <action
+        android:id="@id/action_splashFragment_to_homeFragment"
+        app:destination="@id/homeFragment"
+        app:popUpTo="@id/splashFragment"
+        app:popUpToInclusive="true"/>
+    <action
+        android:id="@id/action_homeFragment_to_autentication"
+        app:destination="@id/autentication"
+        app:popUpTo="@id/homeFragment"
+        app:popUpToInclusive="true"/>
 
 </navigation>

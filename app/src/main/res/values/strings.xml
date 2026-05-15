@@ -16,6 +16,11 @@
     <string name="btn_criar_conta">Criar Conta</string>
     <string name="btn_recuperar_conta">Recuperar Conta</string>
 
+    <string name="text_title_dialog_confira_logout">Deseja sair da sua conta?</string>
+    <string name="text_button_dialog_confirm_logout">Confirmar</string>
+    <string name="text_message_dialog_confirm_logout">Aperte em confirmar para sair da sua conta</string>
+
+
     <!-- Tela Cadastro -->
     <string name="title_criar_conta">Criar Conta</string>
     <string name="btn_enviar">Enviar</string>
@@ -59,4 +64,8 @@
     <string name="text_title_warning">Atenção</string>
     <string name="title_button_ok">OK</string>
     <string name="title_button_confirm">Confirmar</string>
+    <!-- Tela Recuperar Conta -->
+    <string name="text_message_recover_account_fragment">E-mail de recuperação enviado com sucesso!</string>
+    <string name="text_save_sucess_form_task_fragment">Salvo com sucesso</string>
+    <string name="error_generic">Ocorreu um erro, tente novamente mais tarde.</string>
 </resources>

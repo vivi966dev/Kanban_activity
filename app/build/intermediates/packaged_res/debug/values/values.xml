@@ -35,6 +35,11 @@
     <string name="email_empty_recover_fragment">Preencha o campo e-mail para recuperar sua conta.</string>
     <string name="email_empty_register_fragment">Preencha o campo e-mail para realizar o cadastro.</string>
     <string name="email_recuperacao_enviado">E-mail de recuperação enviado com sucesso!</string>
+    <string name="gcm_defaultSenderId" translatable="false">702921375047</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJ3MMNs3CIkpwe_kkppymdjTtxjytVOCk</string>
+    <string name="google_app_id" translatable="false">1:702921375047:android:97a86f25922e8fb49b6062</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJ3MMNs3CIkpwe_kkppymdjTtxjytVOCk</string>
+    <string name="google_storage_bucket" translatable="false">taskapp-b4357.firebasestorage.app</string>
     <string name="hint_descricao_tarefa">Descreva a tarefa</string>
     <string name="hint_digite_email">Digite seu e-mail</string>
     <string name="hint_digite_senha">Digite sua senha</string>
@@ -47,12 +52,17 @@
     <string name="msg_recuperar_conta">Informe seu e-mail de cadastro para receber \n um link para alteração de senha.</string>
     <string name="password_empty_login_fragment">Preencha o campo senha para continuar.</string>
     <string name="password_empty_register_fragment">Preencha o campo senha para realizar o cadastro.</string>
+    <string name="project_id" translatable="false">taskapp-b4357</string>
     <string name="status_task_doing">Fazendo</string>
     <string name="status_task_done">Concluído</string>
     <string name="status_task_todo">A Fazer</string>
     <string name="tabs_desc">Tabs</string>
     <string name="tarefa_atualizada">Tarefa atualizada!</string>
     <string name="tarefa_salva_sucesso">Tarefa salva com sucesso!</string>
+    <string name="text_button_dialog_confirm_logout">Confirmar</string>
+    <string name="text_message_dialog_confirm_logout">Aperte em confirmar para sair da sua conta</string>
+    <string name="text_message_recover_account_fragment">E-mail de recuperação enviado com sucesso!</string>
+    <string name="text_title_dialog_confira_logout">Deseja sair da sua conta?</string>
     <string name="text_title_warning">Atenção</string>
     <string name="title_button_confirm">Confirmar</string>
     <string name="title_button_ok">OK</string>

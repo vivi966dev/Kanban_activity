@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.aluno.task.app-mergeDebugResources-47:/values-land/values-land.xml",
+            "outputFile": "com.aluno.task.app-mergeDebugResources-60:/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\03ed09fe46173020d11380788fe6839a\\transformed\\material-1.11.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\4721d5fb9d58c38e8e1bf0d882ce0d01\\transformed\\material-1.11.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,35,40",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\8b78596945d728fec3f37b885aeefec1\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\9904f549cee28c96120da9a719012df1\\transformed\\appcompat-1.6.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
