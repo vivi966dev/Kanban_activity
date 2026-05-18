@@ -19,6 +19,9 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 
 
+
+
+
 class FormTaskFragment : Fragment() {
 
     private var _binding: FragmentFormTaskBinding? = null
@@ -50,6 +53,13 @@ class FormTaskFragment : Fragment() {
     private fun initListeners() {
         binding.buttonSalvar.setOnClickListener {
             validateData()
+        }
+        binding.radioGroup.setOnCheckedChangeListener{_, id-> status=
+            when(id){
+                R.id.rbTodo ->Status.TODO
+                R.id.rbDoing ->Status.TODO
+                else -> Status.DONE
+            }
         }
     }
 

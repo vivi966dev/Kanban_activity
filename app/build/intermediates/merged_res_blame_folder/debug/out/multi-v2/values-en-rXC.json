@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.aluno.task.app-mergeDebugResources-60:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.aluno.task.app-mergeDebugResources-62:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\846f5dd2229368ffd4a01ee380ffcab9\\transformed\\browser-1.4.0\\res\\values-en-rXC\\values-en-rXC.xml",

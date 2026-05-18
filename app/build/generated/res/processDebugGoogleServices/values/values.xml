@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">702921375047</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJ3MMNs3CIkpwe_kkppymdjTtxjytVOCk</string>
+    <string name="google_app_id" translatable="false">1:702921375047:android:97a86f25922e8fb49b6062</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJ3MMNs3CIkpwe_kkppymdjTtxjytVOCk</string>
+    <string name="google_storage_bucket" translatable="false">taskapp-b4357.firebasestorage.app</string>
+    <string name="project_id" translatable="false">taskapp-b4357</string>
+</resources>

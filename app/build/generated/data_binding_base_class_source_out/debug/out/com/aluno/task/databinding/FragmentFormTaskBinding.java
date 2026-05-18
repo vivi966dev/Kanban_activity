@@ -34,33 +34,33 @@ public final class FragmentFormTaskBinding implements ViewBinding {
   public final ProgressBar progressBar;
 
   @NonNull
-  public final RadioButton radioDoing;
+  public final RadioGroup radioGroup;
 
   @NonNull
-  public final RadioButton radioDone;
+  public final RadioButton rbDoing;
 
   @NonNull
-  public final RadioGroup radioGroupStatus;
+  public final RadioButton rbDone;
 
   @NonNull
-  public final RadioButton radioTodo;
+  public final RadioButton rbTodo;
 
   @NonNull
   public final MaterialToolbar toolbar;
 
   private FragmentFormTaskBinding(@NonNull ScrollView rootView,
       @NonNull MaterialButton buttonSalvar, @NonNull EditText editDescricao,
-      @NonNull ProgressBar progressBar, @NonNull RadioButton radioDoing,
-      @NonNull RadioButton radioDone, @NonNull RadioGroup radioGroupStatus,
-      @NonNull RadioButton radioTodo, @NonNull MaterialToolbar toolbar) {
+      @NonNull ProgressBar progressBar, @NonNull RadioGroup radioGroup,
+      @NonNull RadioButton rbDoing, @NonNull RadioButton rbDone, @NonNull RadioButton rbTodo,
+      @NonNull MaterialToolbar toolbar) {
     this.rootView = rootView;
     this.buttonSalvar = buttonSalvar;
     this.editDescricao = editDescricao;
     this.progressBar = progressBar;
-    this.radioDoing = radioDoing;
-    this.radioDone = radioDone;
-    this.radioGroupStatus = radioGroupStatus;
-    this.radioTodo = radioTodo;
+    this.radioGroup = radioGroup;
+    this.rbDoing = rbDoing;
+    this.rbDone = rbDone;
+    this.rbTodo = rbTodo;
     this.toolbar = toolbar;
   }
 
@@ -109,27 +109,27 @@ public final class FragmentFormTaskBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.radioDoing;
-      RadioButton radioDoing = ViewBindings.findChildViewById(rootView, id);
-      if (radioDoing == null) {
+      id = R.id.radioGroup;
+      RadioGroup radioGroup = ViewBindings.findChildViewById(rootView, id);
+      if (radioGroup == null) {
         break missingId;
       }
 
-      id = R.id.radioDone;
-      RadioButton radioDone = ViewBindings.findChildViewById(rootView, id);
-      if (radioDone == null) {
+      id = R.id.rbDoing;
+      RadioButton rbDoing = ViewBindings.findChildViewById(rootView, id);
+      if (rbDoing == null) {
         break missingId;
       }
 
-      id = R.id.radioGroupStatus;
-      RadioGroup radioGroupStatus = ViewBindings.findChildViewById(rootView, id);
-      if (radioGroupStatus == null) {
+      id = R.id.rbDone;
+      RadioButton rbDone = ViewBindings.findChildViewById(rootView, id);
+      if (rbDone == null) {
         break missingId;
       }
 
-      id = R.id.radioTodo;
-      RadioButton radioTodo = ViewBindings.findChildViewById(rootView, id);
-      if (radioTodo == null) {
+      id = R.id.rbTodo;
+      RadioButton rbTodo = ViewBindings.findChildViewById(rootView, id);
+      if (rbTodo == null) {
         break missingId;
       }
 
@@ -140,7 +140,7 @@ public final class FragmentFormTaskBinding implements ViewBinding {
       }
 
       return new FragmentFormTaskBinding((ScrollView) rootView, buttonSalvar, editDescricao,
-          progressBar, radioDoing, radioDone, radioGroupStatus, radioTodo, toolbar);
+          progressBar, radioGroup, rbDoing, rbDone, rbTodo, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

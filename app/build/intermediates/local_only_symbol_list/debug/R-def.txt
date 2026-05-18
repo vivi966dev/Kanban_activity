@@ -57,10 +57,10 @@ id loginFragment
 id main_graph
 id navHostFragment
 id progressBar
-id radioDoing
-id radioDone
-id radioGroupStatus
-id radioTodo
+id radioGroup
+id rbDoing
+id rbDone
+id rbTodo
 id recoverAccountFragment
 id recyclerViewTask
 id registerFragment
@@ -109,6 +109,7 @@ string email_empty_login_fragment
 string email_empty_recover_fragment
 string email_empty_register_fragment
 string email_recuperacao_enviado
+string error_generic
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id
@@ -136,6 +137,7 @@ string tarefa_salva_sucesso
 string text_button_dialog_confirm_logout
 string text_message_dialog_confirm_logout
 string text_message_recover_account_fragment
+string text_save_sucess_form_task_fragment
 string text_title_dialog_confira_logout
 string text_title_warning
 string title_button_confirm

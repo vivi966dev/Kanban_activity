@@ -1,90 +1,90 @@
 [
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_done.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_done.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_item_task.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/item_task.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_item_task.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/item_task.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_recover_account.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_recover_account.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/navigation_main_graph.xml.flat",
-        "source": "com.aluno.task.app-main-64:/navigation/main_graph.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_splash.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_splash.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_todo.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_todo.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/navigation_main_graph.xml.flat",
+        "source": "com.aluno.task.app-main-66:/navigation/main_graph.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_doing.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_doing.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_todo.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_todo.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_activity_main.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/activity_main.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_arrow_back.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_arrow_forward.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_arrow_forward.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_doing.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_doing.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_register.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_register.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_logout.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_logout.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_bg_bottom_sheet.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/bg_bottom_sheet.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_home.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_bottom_sheet.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/bottom_sheet.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_arrow_forward.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_logo.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_logo.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_bottom_sheet.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/bottom_sheet.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_splash.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_splash.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_done.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_done.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_bg_edit_text.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/bg_edit_text.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_form_task.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_form_task.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_bg_btn.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/bg_btn.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_logo.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_logo.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_form_task.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_form_task.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_bg_edit_text.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/bg_edit_text.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_add.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_add.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/bg_bottom_sheet.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_arrow_back.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_arrow_back.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_bg_btn.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/bg_btn.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_back.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_back.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_register.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_register.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_home.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_home.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_activity_main.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/activity_main.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_recover_account.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_recover_account.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/layout_fragment_login.xml.flat",
+        "source": "com.aluno.task.app-main-66:/layout/fragment_login.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/layout_fragment_login.xml.flat",
-        "source": "com.aluno.task.app-main-64:/layout/fragment_login.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_add.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_add.xml"
     },
     {
-        "merged": "com.aluno.task.app-merged_res-62:/drawable_ic_logout.xml.flat",
-        "source": "com.aluno.task.app-main-64:/drawable/ic_logout.xml"
+        "merged": "com.aluno.task.app-merged_res-64:/drawable_ic_back.xml.flat",
+        "source": "com.aluno.task.app-main-66:/drawable/ic_back.xml"
     }
 ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.aluno.task.app-mergeDebugResources-60:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.aluno.task.app-mergeDebugResources-62:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\c2281671a7da09ec03b416ebb545c5df\\transformed\\credentials-1.2.0-rc01\\res\\values-en-rCA\\values-en-rCA.xml",

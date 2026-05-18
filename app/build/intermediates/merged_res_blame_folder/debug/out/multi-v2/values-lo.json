@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.aluno.task.app-mergeDebugResources-60:/values-lo/values-lo.xml",
+            "outputFile": "com.aluno.task.app-mergeDebugResources-62:/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\9904f549cee28c96120da9a719012df1\\transformed\\appcompat-1.6.1\\res\\values-lo\\values-lo.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "319,422,525,638,723,827,938,1016,1093,1184,1277,1369,1463,1563,1656,1751,1847,1938,2029,2110,2217,2321,2419,2522,2626,2730,2887,12163",
                         "endColumns": "102,102,112,84,103,110,77,76,90,92,91,93,99,92,94,95,90,90,80,106,103,97,102,103,103,156,98,81",
                         "endOffsets": "417,520,633,718,822,933,1011,1088,1179,1272,1364,1458,1558,1651,1746,1842,1933,2024,2105,2212,2316,2414,2517,2621,2725,2882,2981,12240"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\10e5330468e976b6d52061be90cee2f5\\transformed\\play-services-basement-18.4.0\\res\\values-lo\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "127",
-                        "endOffsets": "322"
-                    },
-                    "to": {
-                        "startLines": "58",
-                        "startColumns": "4",
-                        "startOffsets": "5648",
-                        "endColumns": "131",
-                        "endOffsets": "5775"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "6886,7139,7237,7352",
                         "endColumns": "97,97,114,99",
                         "endOffsets": "6979,7232,7347,7447"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\1f55bba96c5c9bee33bbf02f21976bda\\transformed\\play-services-basement-18.9.0\\res\\values-lo\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "218",
+                        "endColumns": "127",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "58",
+                        "startColumns": "4",
+                        "startOffsets": "5648",
+                        "endColumns": "131",
+                        "endOffsets": "5775"
                     }
                 },
                 {
@@ -125,13 +125,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\1ff73efc62b9d61fefc26a2efceb4dd4\\transformed\\play-services-base-18.1.0\\res\\values-lo\\values.xml",
+                    "source": "C:\\Users\\20232TIIMI0241\\.gradle\\caches\\9.0-milestone-1\\transforms\\be788eaecd88b303e9283bf2508396d6\\transformed\\play-services-base-18.9.0\\res\\values-lo\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "193,297,463,589,692,840,961,1065,1177,1325,1426,1588,1713,1880,2037,2101,2166",
+                        "startOffsets": "216,320,486,612,715,863,984,1088,1200,1348,1449,1611,1736,1903,2060,2124,2189",
                         "endColumns": "103,165,125,102,147,120,103,111,147,100,161,124,166,156,63,64,80",
-                        "endOffsets": "296,462,588,691,839,960,1064,1176,1324,1425,1587,1712,1879,2036,2100,2165,2246"
+                        "endOffsets": "319,485,611,714,862,983,1087,1199,1347,1448,1610,1735,1902,2059,2123,2188,2269"
                     },
                     "to": {
                         "startLines": "50,51,52,53,54,55,56,57,59,60,61,62,63,64,65,66,67",
